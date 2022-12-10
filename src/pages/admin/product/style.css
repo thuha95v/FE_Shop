@@ -1,0 +1,7 @@
+.ant-table-tbody tr td {
+    height: 5px;
+    padding: 5px;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+}
